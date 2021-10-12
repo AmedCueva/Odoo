@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_prueba2_ac_prueba2_ac,prueba2_ac.prueba2_ac,model_prueba2_ac_prueba2_ac,base.group_user,1,1,1,1
