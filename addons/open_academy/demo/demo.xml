@@ -1,0 +1,19 @@
+<odoo>
+    <data>
+          <record id="object0" model="open__academy.course">
+            <field name="name">Industria</field>
+            <field name="description">Industria del SW</field>
+          </record>
+
+          <record id="object1" model="open__academy.course">
+            <field name="name">Economia</field>
+            <field name="description">Economia Digital</field>
+          </record>
+
+          <record id="object2" model="open__academy.course">
+            <field name="name">SO-2</field>
+            <field name="description">Sistemas Operativos</field>
+          </record>
+
+    </data>
+</odoo>
