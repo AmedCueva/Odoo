@@ -1,16 +1,16 @@
 # -*- coding: utf-8 -*-
 
-from odoo import models, fields
+# from odoo import models, fields, api
 
 
- class Curso(models.Model):
-     _name = 'open__academy.curso'
-     _description = 'open__academy.AmedCueva'
+# class p3__ac(models.Model):
+#     _name = 'p3__ac.p3__ac'
+#     _description = 'p3__ac.p3__ac'
 
-     name = fields.Char(String="Titulo", required=True)
+#     name = fields.Char()
 #     value = fields.Integer()
 #     value2 = fields.Float(compute="_value_pc", store=True)
-     description = fields.Text()
+#     description = fields.Text()
 #
 #     @api.depends('value')
 #     def _value_pc(self):
