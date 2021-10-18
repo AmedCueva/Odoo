@@ -1,0 +1,15 @@
+<odoo>
+        <record model="openacademy.course" id="course0">
+            <field name="name">Industria</field>
+            <field name="description">Industria del Software</field>
+        </record>
+        <record model="openacademy.course" id="course1">
+            <field name="name">Sistemas Operativos</field>
+            <field name="description">SO-2</field>
+        </record>
+        <record model="openacademy.course" id="course2">
+            <field name="name">Economia</field>
+            <field name="description">Economia Digital</field>
+        </record>
+
+</odoo>
